@@ -1,7 +1,7 @@
 # Hi there, I'm Sylvan Roe 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Building+Aesthetic+iOS+Widgets+%26+Automation;Architecting+Intelligent+AI+Agent+Workflows;Crafting+Real-time+Financial+Cockpits;Local-First+%26+Automation+First" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Building+Aesthetic+iOS+Widgets+%26+Automation;Architecting+Intelligent+AI+Agent+Workflows;Developing+OPC+Enterprise+Infrastructure;Local-First+%26+Automation+First" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,6 +11,7 @@
 <p align="center">
   <a href="#-about-me">About Me</a> •
   <a href="#-featured-projects">Featured Projects</a> •
+  <a href="#-in-progress--private-systems">In Progress</a> •
   <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
   <a href="#-github-stats">GitHub Stats</a>
 </p>
@@ -21,8 +22,7 @@
 
 - 📱 **iOS & Mobile Automation**：专注 iOS 桌面小组件系统与轻量自动化脚本生态，推崇高质感 UI 交互与本地优先（Local-First）设计。
 - 🤖 **AI Agents & Workflows**：深度探索自主智能体体系结构、任务编排调度与专属能力扩展（Skills）。
-- 📈 **Real-Time Data & Cockpits**：实践端到端实时数据看板、金融大屏与产业研究工具链。
-- ⚡ **Cloud & Reliability**：Serverless 边缘函数、自动化 Webhook 管道与高可用服务探针。
+- 🏗️ **Systems & Infrastructure**：持续构建高可用服务探针、企业私有化系统与自动化运维管道。
 
 ---
 
@@ -31,10 +31,15 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 📱 **[Scripting](https://github.com/SylvanRoe/Scripting)** | iOS 桌面小组件与轻量化脚本生态，支持 TSX + 类 SwiftUI 声明式语法构建原生级小组件与自动化工具。 | `TypeScript` `React/TSX` `iOS` |
-| 📊 **[marketingdashboard](https://github.com/SylvanRoe/marketingdashboard)** | 金融与产业研究一屏式实时行情大屏：汇聚多市场指数、大宗商品、资金流、7×24 快讯及 AI Token 趋势。 | `TypeScript` `React` `Data-Viz` |
 | 🧠 **[skills](https://github.com/SylvanRoe/skills)** | 模块化 Agent Skills 集合库，赋能智能体与操作系统、外部工具的深度无缝集成。 | `Python` `Agent Architecture` |
-| ⏱️ **[kanban-dispatcher](https://github.com/SylvanRoe/kanban-dispatcher)** | 面向自主智能体任务调度与看板状态持久化的独立调度守护进程。 | `Python` `System Daemon` |
-| 🌐 **[status-page](https://github.com/SylvanRoe/status-page)** | 轻量、高可用的服务可用性状态监测与多源指标展示系统。 | `JavaScript` `Monitoring` |
+
+---
+
+### 🔒 In Progress & Private Systems
+
+> 部分企业级与私有化项目暂未完全开源，持续迭代中：
+
+- ⚙️ **OPC (Operations & Performance Cockpit)**：企业级核心基础设施与运维服务系统，涵盖专属 OS 安装发布、探针服务监控中转以及高可用性状态监控网。
 
 ---
 
