@@ -18,22 +18,30 @@
 
 ---
 
-### 📌 Pinned Repositories / Core Projects
+### 📌 Core Projects
 
-<p align="center">
-  <a href="https://github.com/SylvanRoe/Scripting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SylvanRoe&repo=Scripting&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9" alt="Scripting" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SylvanRoe/skills">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SylvanRoe&repo=skills&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9" alt="skills" />
-  </a>
-</p>
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 📱 **[Scripting](https://github.com/SylvanRoe/Scripting)** | iOS 桌面小组件与轻量化脚本生态，支持 TSX + 类 SwiftUI 声明式语法构建原生级小组件与自动化工具。 | `TypeScript` `React/TSX` `iOS` |
-| 🧠 **[skills](https://github.com/SylvanRoe/skills)** | 模块化 Agent Skills 集合库，赋能智能体与操作系统、外部工具的深度无缝集成。 | `Python` `Agent Architecture` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/SylvanRoe/Scripting">Scripting</a></h3>
+      <p>iOS 桌面小组件与轻量化脚本生态，支持 TSX + 类 SwiftUI 声明式语法构建原生级小组件与自动化工具。</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+        <img src="https://img.shields.io/badge/React%2FTSX-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/SylvanRoe/skills">skills</a></h3>
+      <p>模块化 Agent Skills 集合库，赋能自主智能体与操作系统、外部工具生态的深度无缝集成。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Agent_Architecture-FF6F00?style=flat-square" alt="Agent" />
+        <img src="https://img.shields.io/badge/Automation-10B981?style=flat-square" alt="Automation" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -47,38 +55,36 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+<p align="left">
+  <strong>Languages:</strong><br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
+</p>
 
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS_Automation-000000?style=flat-square&logo=apple&logoColor=white)
+<p align="left">
+  <strong>Frontend & Mobile:</strong><br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/iOS_Automation-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+</p>
 
-**Backend & Cloud**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![SQLite/D1](https://img.shields.io/badge/SQLite%20%2F%20D1-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+<p align="left">
+  <strong>Backend & Cloud:</strong><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/SQLite%20%2F%20D1-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST" />
+</p>
 
-**Tools & Workflow**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SylvanRoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9" height="150" alt="SylvanRoe's GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvanRoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top Langs" />
+<p align="left">
+  <strong>Tools & Workflow:</strong><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </p>
 
 ---
