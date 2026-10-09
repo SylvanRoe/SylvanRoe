@@ -8,14 +8,6 @@
   <strong>Software Craftsman · iOS Automation Builder · AI Agent Enthusiast</strong>
 </p>
 
-<p align="center">
-  <a href="#-about-me">About Me</a> •
-  <a href="#-featured-projects">Featured Projects</a> •
-  <a href="#-in-progress--private-systems">In Progress</a> •
-  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
-  <a href="#-github-stats">GitHub Stats</a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -26,7 +18,17 @@
 
 ---
 
-### 🚀 Featured Projects
+### 📌 Pinned Repositories / Core Projects
+
+<p align="center">
+  <a href="https://github.com/SylvanRoe/Scripting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SylvanRoe&repo=Scripting&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9" alt="Scripting" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SylvanRoe/skills">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SylvanRoe&repo=skills&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9" alt="skills" />
+  </a>
+</p>
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
